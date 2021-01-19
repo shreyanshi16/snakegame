@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: Equilibrium;
+    background-color:#AACC66;
+}
+
+.title{
+    margin-top: 30px;
+    font-size: 60px;
+    text-align: center;
+    font-family: Equilibrium;
+    color: #2e3520;
+}
+
+#gameCanvas{
+border: 5px solid  #2e3520;
+margin-top: 20px;
+}
+
+.points{
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+}
